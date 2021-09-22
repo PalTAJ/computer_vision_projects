@@ -7,6 +7,6 @@ a simple shapes detection implmentation using opencv
 sample output:
 
 
-![Screenshot](images/result_shapes.png)
+![Screenshot](images/result_polys.png)
 
 
